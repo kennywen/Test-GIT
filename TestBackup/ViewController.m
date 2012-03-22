@@ -24,6 +24,7 @@
     
     NSLog(@"Git Version 1");
     NSLog(@"Git Version 2");
+    NSLog(@"Git Version 3");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
