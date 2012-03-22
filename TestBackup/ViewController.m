@@ -23,6 +23,7 @@
     [super viewDidLoad];
     
     NSLog(@"Git Version 1");
+    NSLog(@"Git Version 2");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
