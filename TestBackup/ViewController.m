@@ -21,6 +21,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    NSLog(@"Git Version 1");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
